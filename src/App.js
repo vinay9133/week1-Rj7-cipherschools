@@ -3,7 +3,6 @@ import Test from "./Test"
 const app =() => {
   return (
     <div>
-    
     </div>
   )
 }
